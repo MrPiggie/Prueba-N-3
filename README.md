@@ -69,9 +69,13 @@ beta
 
 
 
-10)
+10)![dsgsg](https://raw.githubusercontent.com/MrPiggie/Prueba-N-3/master/btn.bmp)
 
-11)
+BTN
+
+11)![sdghdfgh](https://raw.githubusercontent.com/MrPiggie/Prueba-N-3/master/residuebtn.bmp)
+
+Residuos cercanos a BTN
 
 12)
 
