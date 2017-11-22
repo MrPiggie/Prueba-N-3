@@ -77,7 +77,7 @@ BTN
 
 Residuos cercanos a BTN
 
-12)
+12)![sdfsdg](https://raw.githubusercontent.com/MrPiggie/Prueba-N-3/master/distancia.bmp) distancia
 
 13)
 
