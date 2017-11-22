@@ -57,9 +57,15 @@ e) BIOTIN BINDING PROTEIN y BIOTIN
 f)Streptomyces avidinii
 
 9) la selección utilizada en este casio fue ''acidic''.
-![sdgd](https://raw.githubusercontent.com/MrPiggie/Prueba-N-3/master/acidic2.0.bmp) acidic
-![dsf](https://raw.githubusercontent.com/MrPiggie/Prueba-N-3/master/alpha.bmp) alpha
-![dsgs](https://raw.githubusercontent.com/MrPiggie/Prueba-N-3/master/beta.bmp) beta
+
+![sdgd](https://raw.githubusercontent.com/MrPiggie/Prueba-N-3/master/acidic2.0.bmp) 
+acidic
+
+![dsf](https://raw.githubusercontent.com/MrPiggie/Prueba-N-3/master/alpha.bmp) 
+alpha
+
+![dsgs](https://raw.githubusercontent.com/MrPiggie/Prueba-N-3/master/beta.bmp) 
+beta
 
 
 
