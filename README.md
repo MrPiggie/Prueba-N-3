@@ -37,10 +37,8 @@ b) esto es debido a que al realizar el alineamiento local se tomaron dos segment
 ![IMAHBE](https://github.com/MrPiggie/Prueba-N-3/blob/master/S2.png?raw=true)
 
 II)
-![dsfsg]
-III)
+![dsfsg](https://github.com/MrPiggie/Prueba-N-3/blob/master/s3.png?raw=true)
 
-7)
 
 **Item II:**
 
