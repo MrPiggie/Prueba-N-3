@@ -34,8 +34,10 @@ El **tipo de residuo que conforman al péptido.** en este caso si los aminoácid
 b) esto es debido a que al realizar el alineamiento local se tomaron dos segmentos evolutivamente cercanos o que evolucionaron de manera convergente. en cambio al realizar el global se toma toda la estructura de la proteína, tanto los segmentos cercanos evolutivamente como los que no dando como consecuencia un valor de RMSD mayor.
 
 6)I)
-![IMAHBE]
+![IMAHBE](https://github.com/MrPiggie/Prueba-N-3/blob/master/S2.png?raw=true)
+
 II)
+![dsfsg]
 III)
 
 7)
