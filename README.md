@@ -42,9 +42,22 @@ II)
 
 **Item II:**
 
-8)
+8) 
 
-9)
+a) 2.6 A°
+
+b) 1992-03-12
+
+c)1
+
+d) la 1era es una proteína y la 2da una vitamina
+
+e) BIOTIN BINDING PROTEIN y BIOTIN
+
+f)Streptomyces avidinii
+
+9) la selección utilizada en este casio fue ''acidic''.
+
 
 10)
 
